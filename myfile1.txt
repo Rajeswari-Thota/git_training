@@ -4,5 +4,3 @@ The below figure demonstrates the properties and role of stashing concerning rep
 
 
 new stash change
-
-testing revert commands
